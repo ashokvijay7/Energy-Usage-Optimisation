@@ -1,1 +1,2 @@
 # Energy-Usage-Optimisation
+The Energy Usage Optimization project is a multi-phase initiative aimed at developing an intelligent system that analyzes energy consumption patterns, provides actionable insights for energy savings, and integrates real-time IoT data while maintaining data security and scalability. Developed in five phases, the project demonstrates a comprehensive journey from initial planning to final deployment and documentation.
